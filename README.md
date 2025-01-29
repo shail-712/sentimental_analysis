@@ -31,5 +31,5 @@ A Python-based project for classifying customer reviews as Positive, Negative, o
    cd your-repository
 2. Installation Dependencies:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
