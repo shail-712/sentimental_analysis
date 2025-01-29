@@ -30,5 +30,6 @@ A Python-based project for classifying customer reviews as Positive, Negative, o
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
 2. Installation Dependencies:
+   ```bash
 pip install -r requirements.txt
 
