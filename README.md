@@ -1,7 +1,24 @@
-# sentimental_analysis
-Shows the sentiments of reviewers
+# Sentiment Analysis Pipeline 🚀
 
+A Python-based project for classifying customer reviews as Positive, Negative, or Neutral using advanced sentiment analysis techniques.
 
+---
 
-This shows the Sentiment Graph plots, which is taken from reviewers reviews from Amazon
-![image](https://github.com/user-attachments/assets/a359af55-bdf2-4d14-82ff-fb990e76dde7)
+## 📜 Features
+
+- **Sentiment Analysis Pipeline**  
+  - Classifies customer reviews as **Positive**, **Negative**, or **Neutral**.  
+  - Uses **TextBlob** for polarity and subjectivity analysis.  
+  - Integrates **VADER SentimentIntensityAnalyzer** for precise sentiment scoring.  
+
+- **Accurate Text Classification**  
+  - Robust preprocessing techniques for high-quality sentiment analysis.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages & Libraries**: Python, TextBlob, VADER SentimentIntensityAnalyzer  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Database**: MongoDB  
+- **API Integration**: Gemini API  
