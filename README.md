@@ -1,10 +1,10 @@
-# Sentiment Analysis Pipeline 🚀
+# Sentiment Analysis
 
 A Python-based project for classifying customer reviews as Positive, Negative, or Neutral using advanced sentiment analysis techniques.
 
 ---
 
-## 📜 Features
+##  Features
 
 - **Sentiment Analysis Pipeline**  
   - Classifies customer reviews as **Positive**, **Negative**, or **Neutral**.  
@@ -16,9 +16,16 @@ A Python-based project for classifying customer reviews as Positive, Negative, o
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Languages & Libraries**: Python, TextBlob, VADER SentimentIntensityAnalyzer  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
 - **Database**: MongoDB  
 - **API Integration**: Gemini API  
+
+## Installation
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
